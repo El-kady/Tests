@@ -2,7 +2,7 @@ public class JavaTest{
 
 	public static void main(String[] args){
 
-		System.out.println(NOT_FOUND_VAR);
+		System.out.println("Hello");
 	}
 
 }
